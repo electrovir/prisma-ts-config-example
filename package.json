@@ -1,0 +1,12 @@
+{
+  "name": "prisma-ts-config-example",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@prisma/config": "^6.4.1",
+    "typescript": "^5.8.2"
+  }
+}
